@@ -2,6 +2,8 @@
 Repository for the code used in Third Year Individual Project titled Reinforcement Learning for Path Planning and Task Assignment in a Warehouse Environment
 This README file is split into required libraries, an explanation of the code, and finally references.
 
+PLEASE NOTE: due to a problem with connecting to GitHub partway through the project, previous version controls are not available. Included in the repository are previous versions of code that were later debugged. As explained later, sections 2,3,7,8 and 9 contain working code, while other sections contain older versions of code that were useful for debugging. I have included all versions I have for transparency.
+
 #required libraries:
 numpy
 pytorch
